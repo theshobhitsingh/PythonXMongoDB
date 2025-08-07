@@ -59,10 +59,10 @@ MONGO_URI=mongodb+srv://<username>:<password>@<cluster-address>.mongodb.net/
 ```
 Note: Replace with your actual MongoDB Atlas connection string.
 
-4. Run the Application
-   ```
-   python main.py
-   ```
+4. Run the Application:
+```
+python main.py
+```
 
 ## 🧪 Usage Guide
 
